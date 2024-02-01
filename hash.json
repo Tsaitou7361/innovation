@@ -1,0 +1,17 @@
+{
+	"inno-pack-v2.0": {
+		"hashes": {
+			"SHA-1": "dd06be627d91de1ebff6cdb8b81ff6acb45b13c6"
+		}
+	},
+	"inno-pack-v2.0.1": {
+		"hashes": {
+			"SHA-1": "7d5c383d512526f6c110043d20d4ca62e6b934c8"
+		}
+	},
+	"inno-pack-v2.0.2": {
+		"hashes": {
+			"SHA-1": "13f53ae9a1022c2a1dd91c8bf70c911a827da788"
+		}
+	},
+}
