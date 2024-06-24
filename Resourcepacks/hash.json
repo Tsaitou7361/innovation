@@ -23,5 +23,10 @@
 		"hashes": {
 			"SHA-1": "4F6F709AD9A43D3440A2F2B5908FD8F7B69F9FC1"
 		}
+	},
+	"inno-pack-v3.0.2": {
+		"hashes": {
+			"SHA-1": "AF7513337C514F9E934DD6AD56B68F517CA7A1EE"
+		}
 	}
 }
