@@ -1,0 +1,61 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:netherite_sword"
+        },
+        "title": "其實，我乃最強?",
+        "description": "製作出最強的劍!",
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "minecraft:adventure/kill_a_mob",
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:netherite_sword",
+                        "predicates": {
+                            "minecraft:enchantments": [
+                                {
+                                    "enchantments": "minecraft:sweeping_edge",
+                                    "levels": 3
+                                },
+                                {
+                                    "enchantments": "minecraft:knockback",
+                                    "levels": 1
+                                },
+                                {
+                                    "enchantments": "minecraft:sharpness",
+                                    "levels": 5
+                                },
+                                {
+                                    "enchantments": "minecraft:unbreaking",
+                                    "levels": 3
+                                },
+                                {
+                                    "enchantments": "minecraft:mending",
+                                    "levels": 1
+                                },
+                                {
+                                    "enchantments": "minecraft:looting",
+                                    "levels": 3
+                                },
+                                {
+                                    "enchantments": "minecraft:fire_aspect",
+                                    "levels": 2
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "experience": 120000
+    }
+}

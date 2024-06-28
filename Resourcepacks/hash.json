@@ -33,5 +33,10 @@
 		"hashes": {
 			"SHA-1": "FEF4AD9C6C24522A5718ABF20A90656F33CB65EE"
 		}
+	},
+	"inno-pack-v3.0.4": {
+		"hashes": {
+			"SHA-1": "8AC0554A2C013E4AD3CB77533B95EBEBB375E18B"
+		}
 	}
 }
